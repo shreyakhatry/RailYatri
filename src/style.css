@@ -8,7 +8,7 @@
     color: red;
   }
   .container {
-    background-image: url(C:\Users\DELL\shreya-app\src\assets\train.jpg);
+    background-image: url(../src/assets/train.jpg);
     /* background-size: cover; */
     background-size: 100%;
     background-position: center;
